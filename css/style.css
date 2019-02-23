@@ -1,0 +1,29 @@
+.row {
+    /* border: 1px solid red; */
+    margin-top: 50px;
+}
+
+.img-fluid {
+    border-radius: 50%;
+    text-align: center;
+}
+
+.col-4 {
+    /* border: 1px solid black; */
+}
+
+.progress {
+    height: 10px !important;
+}
+.progress-bar {
+    font-size: 9px;
+}
+h6 {
+    margin-top: 10px;
+}
+.col-3 {
+    /* border: 1px solid black; */
+}
+.nav-item {
+    text-align: center;
+}
